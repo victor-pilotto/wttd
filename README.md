@@ -1,6 +1,6 @@
-# Eventex
+# Welcome to the Django.
 
-Sistema de Eventos encomendado pela Morena.
+Sistema de Eventos desenvolvido durante o curso Welcome to the Django.
 
 [![Build Status](https://travis-ci.org/vpilotto/wttd.svg?branch=master)](https://travis-ci.org/vpilotto/wttd)
 
