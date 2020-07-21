@@ -31,6 +31,7 @@ def backward_course_abc_to_mti(apps, schema_editor):
 
 
 class Migration(migrations.Migration):
+    atomic = False
 
     dependencies = [
         ('core', '0009_course'),
